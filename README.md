@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img id="preview" src="https://yhype.me/github/accounts/kanzalhaqa&color=grey">
 </p>
 <p align="center">
     <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
